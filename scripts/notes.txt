@@ -1,0 +1,6 @@
+'show_id' - not visible 
+'type', 'rating'- multiselect drop down 
+'title', 'director', 'cast', 'country' - searchable 
+'release_year' - slider 
+'duration', 'listed_in', 'description' - display only 
+'platform' - image selection checkbox
